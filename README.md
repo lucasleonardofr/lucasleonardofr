@@ -1,16 +1,14 @@
-### Hi there 👋
+### Oi, sou o Lucas! 👋
+💻 Desenvolvedor Front- End Jr - Atualmente em Uberlândia-MG🏡 
+### Encontre-me por aqui 🌎
+[![Linkedin Badge](https://www.linkedin.com/in/lucasleonardofr/)
 
-<!--
-**lucasleonardofr/lucasleonardofr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Atualmente trabalho com React Native<br>
+📚 Aprofudando os estudos em desenvolvimento web<br>
+Um amor por :pizza: e :coffee:
+
+
+
+
