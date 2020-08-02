@@ -8,7 +8,7 @@
 📚 Aprofudando os estudos em desenvolvimento web<br>
 Um amor por :pizza: e :coffee:
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fhugoduarte&show_icons=true" alt="fhugoduarte" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lucasleonardofr&show_icons=true" alt="lucasleonardofr" /> </p>
 
 
 
