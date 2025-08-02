@@ -1,6 +1,6 @@
 # Lucas Leonardo 🏎
 
-## 🇧🇷 Sobre mim | About me 🇺🇸
+## 📝 Sobre mim | About me
 
 Sou Engenheiro de Software iOS pleno com mais de 3 anos de experiência, apaixonado por criar aplicativos nativos de alta qualidade, sempre focado em usabilidade, inovação e excelência de código.
 
